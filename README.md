@@ -1,6 +1,6 @@
 ### Hi there 👋 I 'm Alma.
 
-I'm a Full Stack Developer based in Berlin and background in philosophy. 
+I'm a Full Stack Developer with a background in philosophy based in Berlin. 
 I'm recently graduaded from a coding-bootcamp at Spiced Academy.
 
 <!--
