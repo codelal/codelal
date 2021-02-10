@@ -1,6 +1,7 @@
 ### Hi there 👋 I 'm Alma.
 
-I'm a Full Stack Developer based in Berlin and recently graduaded from a coding-bootcamp at Spiced Academy.
+I'm a Full Stack Developer based in Berlin and background in philosophy. 
+I'm recently graduaded from a coding-bootcamp at Spiced Academy.
 
 <!--
 **codelal/codelal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
