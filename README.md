@@ -1,6 +1,6 @@
 ### Hi there, I'm Alma 👋,
 
-I'm a Web Developer with a background in philosophy based in Berlin. 
+I'm a Web Developer based in Berlin. 
 I'm recently graduaded from a coding-bootcamp at Spiced Academy.
 
 <!--
