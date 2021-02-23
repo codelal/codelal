@@ -6,7 +6,7 @@ I'm a Web Developer based in Berlin.
 - 🔭 I'm currently working on a survey-app
 - 💬 Ask me about anything
 
-# You can find me here: <a href="https://www.linkedin.com/in/alkl"><img width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"></a>
+- Get in contact: <a href="https://www.linkedin.com/in/alkl"><img width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png">
 <!--
 **codelal/codelal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
