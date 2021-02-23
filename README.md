@@ -4,7 +4,7 @@ I'm a Web Developer based in Berlin.
 
 - 🌱 I’m recently graduaded from a coding-bootcamp at Spiced Academy.
 - 🔭 I'm currently working on a survey-app
-- 📫 How to reach me: <a href="//https://www.linkedin.com/in/alkl"><img width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/alkl"><img width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"></a>
 - 💬 Ask me about anything
 
 <!--
