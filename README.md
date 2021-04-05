@@ -1,9 +1,9 @@
 ### Hi there, I'm Alma 👋,
 
-I'm a Web Developer based in Berlin. 
+I'm a web developer based in Berlin. 
 
-- 🌱 I’m recently graduaded from a coding-bootcamp at Spiced Academy.
-- 🔭 I'm currently working on a typing-app with React and Redux
+- 🌱 I recently graduated from a bootcamp at Spiced Academy.
+- 🔭 I'm currently working on a typing app with React and Redux
 - 💬 Ask me about anything :)
 - <a href="https://www.linkedin.com/in/alkl"><img width="15px" height="15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"> Get in contact!
 <!--
